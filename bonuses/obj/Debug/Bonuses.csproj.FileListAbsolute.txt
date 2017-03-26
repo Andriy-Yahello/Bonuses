@@ -1,0 +1,12 @@
+d:\app\my\Bonuses\Bonuses\bin\Debug\Bonuses.exe.config
+d:\app\my\Bonuses\Bonuses\bin\Debug\Bonuses.exe
+d:\app\my\Bonuses\Bonuses\bin\Debug\Bonuses.pdb
+d:\app\my\Bonuses\Bonuses\obj\Debug\Bonuses.csprojResolveAssemblyReference.cache
+d:\app\my\Bonuses\Bonuses\obj\Debug\Bonuses.exe
+d:\app\my\Bonuses\Bonuses\obj\Debug\Bonuses.pdb
+C:\app\my\Bonuses\Bonuses\bin\Debug\Bonuses.exe.config
+C:\app\my\Bonuses\Bonuses\obj\Debug\Bonuses.exe
+C:\app\my\Bonuses\Bonuses\obj\Debug\Bonuses.pdb
+C:\app\my\Bonuses\Bonuses\bin\Debug\Bonuses.exe
+C:\app\my\Bonuses\Bonuses\bin\Debug\Bonuses.pdb
+C:\app\my\Bonuses\Bonuses\obj\Debug\Bonuses.csprojResolveAssemblyReference.cache
